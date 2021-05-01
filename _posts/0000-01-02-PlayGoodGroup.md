@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Can you hear me now?
+Testing the waters. Learning the ropes. Getting ready to sail.
 
 Use the left arrow to go back!
